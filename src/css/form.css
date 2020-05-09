@@ -1,0 +1,31 @@
+form {
+  margin-top: 30px;
+}
+
+#input {
+  width: 25%;
+  padding: 8px 8px;
+  margin: 10px 5px;
+  border: 1px solid black;
+  border-radius: 5px;
+  outline: none;
+  font-weight: bold;
+}
+#add {
+  background-color: #555555;
+  border: 1px solid black;
+  border-radius: 5px;
+  color: white;
+  padding: 7px 16px;
+  text-align: center;
+  font-size: inherit;
+  font-weight: bolder;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  outline: none;
+}
+#add:hover {
+  background-color: #eeeeee;
+  color: #000000;
+}
